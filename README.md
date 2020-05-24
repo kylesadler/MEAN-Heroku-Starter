@@ -1,2 +1,2 @@
-# MEAN-Stack-Starter
+# MEAN-Starter
 A boilerplate starter for MEAN stack websites
